@@ -39,14 +39,14 @@ const weeklySchedule = {
         { subject: 'L/ECE1001/TD/CB501', time: '10:00 AM' },
         { subject: 'T1/HUM1002/SC/ICT306', time: '11:00 AM' },
         { subject: 'L/PHY1001/DM/CB512', time: '1:00 PM' },
-        { subject: 'T1/MTH1101/AP/CB512', time: '2:00 PM' },
+        { subject: 'T1/MTH1101/AP/CB512', time: '6:47 PM' },
     ],
     5: [ // Friday
         { subject: 'L/HUM1002/KM/CB512', time: '9:00 AM' },
         { subject: 'T1/MEC1052/AM/CB512', time: '10:00 AM' },
         { subject: 'T1/MEC1051/PG/CB512', time: '11:00 AM' },
         { subject: 'L/HUM1002/SC/CB512', time: '1:00 PM' },
-        { subject: 'L/LIFE SKILL/BB/CB512', time: '5:35 PM' },
+        { subject: 'L/LIFE SKILL/BB/CB512', time: '6:47 PM' },
     ],
     6: [ // Saturday
       
